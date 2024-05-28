@@ -1,2 +1,3 @@
 # Moon-Phase-Detection
-This project develops a CNN for automated moon phase detection, achieving over 90% accuracy. Using data augmentation, it enhances reliability and reduces manual observation, aiding precise scheduling in agriculture, fishing, and astronomy, and demonstrating significant advancements with broad applications.
+This project focuses on developing a Convolutional Neural Network (CNN) for automated moon phase detection from images, achieving over 85% accuracy. By leveraging data augmentation techniques, the model enhances generalization and reliability, reducing the need for manual observation. This scalable solution aids in the precise scheduling of activities in agriculture, fishing, and astronomy. The CNN model's high accuracy ensures dependable lunar phase identification, facilitating efficient planning and resource management. This work demonstrates a significant advancement in moon phase detection, with broad applications in various fields.
+
